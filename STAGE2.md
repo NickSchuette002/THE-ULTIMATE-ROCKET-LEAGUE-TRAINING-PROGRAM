@@ -10,7 +10,7 @@ Think about it like this, before you learn multiplication you first need to lear
 
 -------------
 
-### Part 1 - FLYING FACING FORWARD
+### Part 1 - FLYING WHILE FACING FORWARD
 ###### Estimated time to completion: 1 day (will be adjusted based on your feedback)
 #### Learn to Fly While Facing Forward (camera is at back of car)
 This is a warm up for the rest of the Stage. Make sure to complete it before moving forward.
@@ -23,7 +23,7 @@ https://youtu.be/eHc90uGBW3I - Rocket League - Core Flying Training
 Install Workshop Map: Obstacle Course #2 v1.1
 Link: http://steamcommunity.com/sharedfiles/filedetails/?id=828803580
 
-Finish levels 1-10 while **ONLY FACING FORWARD** if your car rotates, make adjustments using Air Roll to face your car as close to facing perfectly forward as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
+Finish levels 1-10 while **ONLY FACING FORWARD** if your car rotates, make adjustments using Air Roll to face your car as close to forward as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
 
 **Completion Challenge:**   
 Do this until you can complete levels 1-10 without a **single reset**. If you touch the ground or walls and **RESET** you must **START FROM LEVEL 1**. 
@@ -32,7 +32,7 @@ Do this until you can complete levels 1-10 without a **single reset**. If you to
   
   -------------
 
-### Part 2 - FLYING FACING BACKWARDS
+### Part 2 - FLYING WHILE FACING BACKWARDS
 ###### Estimated time to completion: 3 days (will be adjusted based on your feedback)
 #### Learn to Fly While Facing Backwards (camera is facing the bottom of the car)
 Now it will get a little bit more challenging. This is because, if you're not used to flying backwards, and you don't have the muscle memory, you simply won't be able to do this consistently.
@@ -45,7 +45,7 @@ https://youtu.be/eHc90uGBW3I - Rocket League - Core Flying Training
 Install Workshop Map: Obstacle Course #2 v1.1
 Link: http://steamcommunity.com/sharedfiles/filedetails/?id=828803580
 
-Finish levels 1-10 while **ONLY FACING BACKWARDS** if your car rotates, make adjustments using Air Roll to face your car as close to facing perfectly backwards as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
+Finish levels 1-10 while **ONLY FACING BACKWARDS** if your car rotates, make adjustments using Air Roll to face your car as close to backwards as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
 
 **Completion Challenge:**   
 Do this until you can complete levels 1-10 without a **single reset**. If you touch the ground or walls and **RESET** you must **START FROM LEVEL 1**.  Once you complete this challenge, move to the next part.
@@ -54,7 +54,7 @@ Do this until you can complete levels 1-10 without a **single reset**. If you to
   
   -------------
 
-### Part 3 - FLYING FACING LEFT SIDE (LEFT WINDOW & WHEELS)
+### Part 3 - FLYING WHILE FACING LEFT SIDE (LEFT WINDOW & WHEELS)
 ###### Estimated time to completion: 1 week (will be adjusted based on your feedback)
 #### Learn to Fly While Facing your left side (camera is facing the left window of the car)
 This is where it gets really challenging. But if you get good at this, **you will become a god in the air.**
@@ -67,7 +67,7 @@ https://youtu.be/eHc90uGBW3I - Rocket League - Core Flying Training
 Install Workshop Map: Obstacle Course #2 v1.1
 Link: http://steamcommunity.com/sharedfiles/filedetails/?id=828803580
 
-Finish levels 1-10 while **ONLY FACING YOUR LEFT SIDE** if your car rotates, make adjustments using Air Roll to face your car as close to facing perfectly on your left side as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
+Finish levels 1-10 while **ONLY FACING YOUR LEFT SIDE** if your car rotates, make adjustments using Air Roll to face your car as close to your left side as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
 
 **Completion Challenge:**   
 Do this until you can complete levels 1-10 without a **single reset**. If you touch the ground or walls and **RESET** you must **START FROM LEVEL 1**.  Once you complete this challenge, move to the next part.
@@ -76,7 +76,7 @@ Do this until you can complete levels 1-10 without a **single reset**. If you to
 
   -------------
 
-### Part 4 - FLYING FACING RIGHT SIDE (RIGHT WINDOW & WHEELS)
+### Part 4 - FLYING WHILE FACING RIGHT SIDE (RIGHT WINDOW & WHEELS)
 ###### Estimated time to completion: 1 week (will be adjusted based on your feedback)
 #### Learn to Fly While Facing your right side (camera is facing the right window of the car)
 Same as the last training, remember if you get good at this, **you will become a god in the air.**
@@ -89,7 +89,7 @@ https://youtu.be/eHc90uGBW3I - Rocket League - Core Flying Training
 Install Workshop Map: Obstacle Course #2 v1.1
 Link: http://steamcommunity.com/sharedfiles/filedetails/?id=828803580
 
-Finish levels 1-10 while **ONLY FACING YOUR RIGHT SIDE** if your car rotates, make adjustments using Air Roll to face your car as close to facing perfectly on your right side as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
+Finish levels 1-10 while **ONLY FACING YOUR RIGHT SIDE** if your car rotates, make adjustments using Air Roll to face your car as close to your right side as possible. Doing this will also train your Air Roll muscle memory. **MAKE SURE TO RE-ADJUST YOUR CAR WITH AIR ROLL. THIS IS AN ESSENTIAL PART OF THIS TRAINING*.
 
 **Completion Challenge:**   
 Do this until you can complete levels 1-10 without a **single reset**. If you touch the ground or walls and **RESET** you must **START FROM LEVEL 1**.  Once you complete this challenge, move to the next part.
