@@ -106,7 +106,7 @@ In this training you will combine all 4 sides into one training. This training w
 #### Training:
 ***Watch:***   
 Kevpert - Advanced Car Control | Rocket League Tutorial
-https://youtu.be/eHc90uGBW3Ihttps://youtu.be/ed8owajA0Lc?t=161
+https://www.youtube.com/watch?v=ed8owajA0Lc
 
 ***Do:***  
 Practice the training in 30-120min sessions before/after playing ranked or whenever you feel like it.
